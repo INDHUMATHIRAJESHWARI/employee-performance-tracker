@@ -1,0 +1,5 @@
+employee_id, name   ,age, department ,position  , hire_date
+3,Suresh,28,Sales,Manager,2018-04-30
+5,Zeni,24,Sales,Executive,2018-04-28
+6,Surya,25,Marketing,Manager,2019-02-25
+7,Ganesh,30,IT,Senior developer,2012-03-12
